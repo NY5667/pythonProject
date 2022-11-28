@@ -7,3 +7,7 @@ pip freeze > requirements.txt
 ```
 pip install -r requirements.txt
 ```
+
+```
+https://learn.microsoft.com/en-us/sql/connect/python/python-driver-for-sql-server?view=sql-server-ver16
+```
