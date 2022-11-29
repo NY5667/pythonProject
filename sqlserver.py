@@ -11,8 +11,8 @@ cnxn = pyodbc.connect('DRIVER={ODBC Driver 18 for SQL Server};SERVER='+server+';
 cursor = cnxn.cursor()
 
 #Sample select query
-cursor.execute("SELECT @@version;")
+cursor.execute("SELECT * FROM SESGIS_CUSTOM_THEMATICS WHERE VALID = 1")
 row = cursor.fetchone()
 while row:
-    print(row[0])
+    print(row)
     row = cursor.fetchone()
