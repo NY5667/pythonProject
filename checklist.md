@@ -13,3 +13,5 @@ pip install -r requirements.txt
 [https://r2schools.com/modulenotfounderror-no-module-named-mysql/](https://r2schools.com/modulenotfounderror-no-module-named-mysql/)
 
 [https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html)
+
+[https://www.oracle.com/database/technologies/appdev/python/quickstartpythononprem.html](https://www.oracle.com/database/technologies/appdev/python/quickstartpythononprem.html)
